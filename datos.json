@@ -9,19 +9,34 @@
   },
   "highlights": [
     {
-      "when": "Dom 1 nov · 17:15",
+      "when": "Liga de Primera · Lun 2 nov · 20:30",
+      "match": "Deportes Concepción vs. Palestino",
+      "ch": "TNT Sports Premium · HBO Max"
+    },
+    {
+      "when": "Liga de Primera · Dom 1 nov · 17:15",
       "match": "U. Católica vs. U. de Chile",
       "ch": "TNT Sports Premium · HBO Max"
     },
     {
-      "when": "Dom 1 nov · 13:30",
+      "when": "Premier League · Dom 1 nov · 13:30",
       "match": "Liverpool vs. Arsenal",
       "ch": "Disney+ Premium · ESPN (por confirmar)"
     },
     {
-      "when": "Vie 30 oct · 19:00",
+      "when": "Liga de Primera · Vie 30 oct · 19:00",
       "match": "Colo-Colo vs. U. de Concepción",
       "ch": "TNT Sports Premium · HBO Max"
+    },
+    {
+      "when": "LaLiga · Sáb 31 oct · 17:00",
+      "match": "Barcelona vs. Alavés",
+      "ch": "Disney+ Premium · ESPN (por confirmar)"
+    },
+    {
+      "when": "Premier League · Sáb 31 oct · 09:30",
+      "match": "Chelsea vs. Manchester United",
+      "ch": "Disney+ Premium · ESPN (por confirmar)"
     }
   ],
   "comps": [
