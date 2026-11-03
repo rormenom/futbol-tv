@@ -1,125 +1,165 @@
 {
-  "week": "Semana 44 · 26 oct – 1 nov 2026",
-  "updated": "Actualizado el miércoles 28 de octubre de 2026. Próxima actualización: domingo 1 de noviembre, 23:59.",
+  "week": "Semana 45 · 2 nov – 8 nov 2026",
+  "updated": "Actualizado el domingo 1 de noviembre de 2026. Próxima actualización: domingo 8 de noviembre, 23:59.",
   "team": {
     "name": "Deportes Concepción",
     "match": "Deportes Concepción vs. Palestino",
     "when": "Lunes 2 de noviembre · 20:30",
-    "info": "Liga de Primera, fecha 26 · Estadio Ester Roa · TNT Sports Premium · HBO Max"
+    "info": "Liga de Primera, fecha 26 · Estadio Ester Roa · TNT Sports Premium · HBO Max. Doble fecha: el sábado 7 de noviembre a las 17:30 visita a Everton en el Sausalito (fecha 27, TNT Sports Premium · HBO Max)."
   },
   "highlights": [
-    {
-      "when": "Liga de Primera · Vie 30 oct · 19:00",
-      "match": "Colo-Colo vs. U. de Concepción",
-      "ch": "TNT Sports Premium · HBO Max"
-    },
-    {
-      "when": "Premier League · Sáb 31 oct · 09:30",
-      "match": "Chelsea vs. Manchester United",
-      "ch": "Disney+ Premium · ESPN (por confirmar)"
-    },
-    {
-      "when": "LaLiga · Sáb 31 oct · 17:00",
-      "match": "Barcelona vs. Alavés",
-      "ch": "Disney+ Premium · ESPN (por confirmar)"
-    },
-    {
-      "when": "Premier League · Dom 1 nov · 13:30",
-      "match": "Liverpool vs. Arsenal",
-      "ch": "Disney+ Premium · ESPN (por confirmar)"
-    },
-    {
-      "when": "Liga de Primera · Dom 1 nov · 17:15",
-      "match": "U. Católica vs. U. de Chile",
-      "ch": "TNT Sports Premium · HBO Max"
-    },
     {
       "when": "Liga de Primera · Lun 2 nov · 20:30",
       "match": "Deportes Concepción vs. Palestino",
       "ch": "TNT Sports Premium · HBO Max"
+    },
+    {
+      "when": "Champions League · Mar 3 nov · 17:00",
+      "match": "Atlético de Madrid vs. Bayern Múnich",
+      "ch": "Disney+ Premium · ESPN 2"
+    },
+    {
+      "when": "Champions League · Mié 4 nov · 17:00",
+      "match": "RB Leipzig vs. Manchester City",
+      "ch": "Disney+ Premium · ESPN (por confirmar)"
+    },
+    {
+      "when": "Liga de Primera · Sáb 7 nov · 17:30",
+      "match": "Everton vs. Deportes Concepción",
+      "ch": "TNT Sports Premium · HBO Max"
+    },
+    {
+      "when": "Liga de Primera · Dom 8 nov · 15:00",
+      "match": "Ñublense vs. Colo-Colo",
+      "ch": "TNT Sports Premium · HBO Max"
+    },
+    {
+      "when": "LaLiga · Dom 8 nov · 17:00",
+      "match": "Atlético de Madrid vs. Barcelona",
+      "ch": "Disney+ Premium · ESPN (por confirmar)"
     }
   ],
   "comps": [
     {
       "name": "Liga de Primera",
-      "sub": "Campeonato Nacional · Fecha 26",
+      "sub": "Campeonato Nacional · Cierre de la fecha 26 y fecha 27 (sin fútbol el viernes por la Teletón)",
       "days": [
-        {
-          "day": "Miércoles 28 oct",
-          "rows": [
-            {
-              "t": "20:30",
-              "m": "U. Católica vs. Audax Italiano",
-              "ch": "TNT Sports Premium · HBO Max",
-              "tag": "Aplazado",
-              "off": true
-            }
-          ]
-        },
-        {
-          "day": "Viernes 30 oct",
-          "rows": [
-            {
-              "t": "19:00",
-              "m": "Colo-Colo vs. U. de Concepción",
-              "s": "Estadio Monumental",
-              "ch": "TNT Sports Premium · HBO Max"
-            },
-            {
-              "t": "19:00",
-              "m": "Coquimbo Unido vs. Unión La Calera",
-              "s": "Estadio Francisco Sánchez Rumoroso",
-              "ch": "TNT Sports Premium · HBO Max"
-            }
-          ]
-        },
-        {
-          "day": "Sábado 31 oct",
-          "rows": [
-            {
-              "t": "20:00",
-              "m": "O'Higgins vs. Ñublense",
-              "s": "Estadio El Teniente",
-              "ch": "TNT Sports Premium · HBO Max"
-            }
-          ]
-        },
-        {
-          "day": "Domingo 1 nov",
-          "rows": [
-            {
-              "t": "12:00",
-              "m": "Huachipato vs. Deportes La Serena",
-              "s": "Estadio Huachipato",
-              "ch": "TNT Sports Premium · HBO Max"
-            },
-            {
-              "t": "14:15",
-              "m": "Cobresal vs. Everton",
-              "s": "Estadio El Cobre",
-              "ch": "TNT Sports Premium · HBO Max"
-            },
-            {
-              "t": "17:15",
-              "m": "U. Católica vs. U. de Chile",
-              "s": "Claro Arena · Clásico universitario",
-              "ch": "TNT Sports Premium · HBO Max"
-            }
-          ]
-        },
         {
           "day": "Lunes 2 nov",
           "rows": [
             {
               "t": "18:00",
               "m": "Deportes Limache vs. Audax Italiano",
+              "s": "Fecha 26",
               "ch": "TNT Sports Premium · HBO Max"
             },
             {
               "t": "20:30",
               "m": "Deportes Concepción vs. Palestino",
-              "s": "Estadio Ester Roa",
+              "s": "Fecha 26 · Estadio Ester Roa",
               "ch": "TNT Sports Premium · HBO Max"
+            }
+          ]
+        },
+        {
+          "day": "Jueves 5 nov",
+          "rows": [
+            {
+              "t": "20:00",
+              "m": "U. de Concepción vs. O'Higgins",
+              "s": "Fecha 27 · Estadio Ester Roa",
+              "ch": "TNT Sports Premium · HBO Max"
+            }
+          ]
+        },
+        {
+          "day": "Sábado 7 nov",
+          "rows": [
+            {
+              "t": "15:00",
+              "m": "Deportes La Serena vs. Palestino",
+              "s": "Estadio La Portada",
+              "ch": "TNT Sports Premium · HBO Max"
+            },
+            {
+              "t": "17:30",
+              "m": "Everton vs. Deportes Concepción",
+              "s": "Estadio Sausalito, Viña del Mar",
+              "ch": "TNT Sports Premium · HBO Max"
+            }
+          ]
+        },
+        {
+          "day": "Domingo 8 nov",
+          "rows": [
+            {
+              "t": "12:30",
+              "m": "Audax Italiano vs. Coquimbo Unido",
+              "s": "Estadio Bicentenario de La Florida",
+              "ch": "TNT Sports Premium · HBO Max"
+            },
+            {
+              "t": "15:00",
+              "m": "Ñublense vs. Colo-Colo",
+              "s": "Estadio Nelson Oyarzún · Colo-Colo puede ser campeón",
+              "ch": "TNT Sports Premium · HBO Max"
+            },
+            {
+              "t": "15:00",
+              "m": "U. de Chile vs. Cobresal",
+              "s": "Estadio por confirmar · algunas fuentes lo dan para el lunes 9 a las 20:00",
+              "ch": "TNT Sports Premium · HBO Max"
+            },
+            {
+              "t": "17:30",
+              "m": "Unión La Calera vs. Huachipato",
+              "s": "Estadio Nicolás Chahuán",
+              "ch": "TNT Sports Premium · HBO Max"
+            },
+            {
+              "t": "20:00",
+              "m": "U. Católica vs. Deportes Limache",
+              "s": "Claro Arena",
+              "ch": "TNT Sports Premium · HBO Max"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Copa Chile",
+      "sub": "Cuartos de final · partidos pendientes",
+      "days": [
+        {
+          "day": "Lunes 2 nov",
+          "rows": [
+            {
+              "t": "19:00",
+              "m": "Colo-Colo vs. Deportes Puerto Montt",
+              "s": "Estadio Monumental · se juegan los 45' pendientes (2-0 global)",
+              "ch": "TNT Sports Premium · HBO Max"
+            }
+          ]
+        },
+        {
+          "day": "Miércoles 4 nov",
+          "rows": [
+            {
+              "t": "19:00",
+              "m": "Unión La Calera vs. Coquimbo Unido",
+              "s": "Vuelta",
+              "ch": "TNT Sports Premium · HBO Max"
+            }
+          ]
+        },
+        {
+          "day": "Jueves 5 nov",
+          "rows": [
+            {
+              "t": "19:00",
+              "m": "U. de Chile vs. Deportes Antofagasta",
+              "s": "Vuelta · Antofagasta ganó 2-0 la ida · estadio por confirmar",
+              "ch": "TNT Sports Premium · HBO Max (por confirmar)"
             }
           ]
         }
@@ -127,178 +167,318 @@
     },
     {
       "name": "Copa Libertadores",
+      "days": [],
       "empty": "Sin partidos esta semana.",
-      "next": "<b>Final:</b> sábado 28 de noviembre, Estadio Centenario (Montevideo). Estudiantes de La Plata vs. ganador de Palmeiras–Fluminense. ESPN · Disney+ Premium."
+      "next": "<b>Final:</b> sábado 28 de noviembre, Estadio Centenario (Montevideo). Estudiantes de La Plata vs. Palmeiras. ESPN · Disney+ Premium."
     },
     {
       "name": "Copa Sudamericana",
+      "days": [],
       "empty": "Sin partidos esta semana.",
       "next": "<b>Final:</b> sábado 21 de noviembre, Estadio Metropolitano (Barranquilla). Atlético Mineiro vs. Boca Juniors. ESPN · Disney+ Premium."
     },
     {
       "name": "Champions League",
-      "empty": "Sin partidos esta semana.",
-      "days": [],
-      "next": "<b>Jornada 4:</b> martes 3 y miércoles 4 de noviembre, a las 14:45 y 17:00. Disney+ Premium · ESPN."
+      "sub": "Fase liga · Jornada 4",
+      "days": [
+        {
+          "day": "Martes 3 nov",
+          "rows": [
+            {
+              "t": "14:45",
+              "m": "Shakhtar Donetsk vs. Sporting CP",
+              "ch": "Disney+ Premium"
+            },
+            {
+              "t": "14:45",
+              "m": "Galatasaray vs. Stuttgart",
+              "ch": "Disney+ Premium · ESPN"
+            },
+            {
+              "t": "17:00",
+              "m": "Atlético de Madrid vs. Bayern Múnich",
+              "ch": "Disney+ Premium · ESPN 2"
+            },
+            {
+              "t": "17:00",
+              "m": "Barcelona vs. Aston Villa",
+              "ch": "Disney+ Premium · ESPN 5"
+            },
+            {
+              "t": "17:00",
+              "m": "Villarreal vs. PSG",
+              "ch": "Disney+ Premium · ESPN"
+            },
+            {
+              "t": "17:00",
+              "m": "Manchester United vs. Roma",
+              "ch": "Disney+ Premium · ESPN 3"
+            },
+            {
+              "t": "17:00",
+              "m": "Feyenoord vs. Inter",
+              "ch": "Disney+ Premium · ESPN 7"
+            },
+            {
+              "t": "17:00",
+              "m": "Bodø/Glimt vs. Lille",
+              "ch": "Disney+ Premium · ESPN 4"
+            },
+            {
+              "t": "17:00",
+              "m": "LASK vs. Slovan Bratislava",
+              "ch": "Disney+ Premium · ESPN 6"
+            }
+          ]
+        },
+        {
+          "day": "Miércoles 4 nov",
+          "rows": [
+            {
+              "t": "14:45",
+              "m": "Fenerbahçe vs. Liverpool",
+              "ch": "Disney+ Premium · ESPN"
+            },
+            {
+              "t": "14:45",
+              "m": "AEK Atenas vs. Real Madrid",
+              "ch": "Disney+ Premium · ESPN 5"
+            },
+            {
+              "t": "17:00",
+              "m": "RB Leipzig vs. Manchester City",
+              "ch": "Disney+ Premium · ESPN (por confirmar)"
+            },
+            {
+              "t": "17:00",
+              "m": "Slavia Praga vs. Arsenal",
+              "ch": "Disney+ Premium · ESPN (por confirmar)"
+            },
+            {
+              "t": "17:00",
+              "m": "Borussia Dortmund vs. Real Betis",
+              "ch": "Disney+ Premium · ESPN (por confirmar)"
+            },
+            {
+              "t": "17:00",
+              "m": "Porto vs. Napoli",
+              "ch": "Disney+ Premium · ESPN (por confirmar)"
+            },
+            {
+              "t": "17:00",
+              "m": "PSV vs. Club Brugge",
+              "ch": "Disney+ Premium · ESPN (por confirmar)"
+            },
+            {
+              "t": "17:00",
+              "m": "Lens vs. Como",
+              "ch": "Disney+ Premium · ESPN (por confirmar)"
+            },
+            {
+              "t": "17:00",
+              "m": "Viking vs. Sabah",
+              "ch": "Disney+ Premium · ESPN (por confirmar)"
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "Otras ligas",
-      "sub": "Premier League, LaLiga, Serie A y Copa de la Liga inglesa",
+      "sub": "Premier League, LaLiga, Serie A y Bundesliga",
       "days": [
-        {
-          "day": "Miércoles 28 oct",
-          "rows": [
-            {
-              "t": "14:30",
-              "m": "Milan vs. Bologna",
-              "s": "Serie A",
-              "ch": "Disney+ Premium · ESPN 2"
-            },
-            {
-              "t": "14:30",
-              "m": "Venezia vs. Inter",
-              "s": "Serie A",
-              "ch": "Disney+ Premium · ESPN"
-            },
-            {
-              "t": "14:30",
-              "m": "Parma vs. Udinese",
-              "s": "Serie A",
-              "ch": "Disney+ Premium"
-            },
-            {
-              "t": "16:30",
-              "m": "Manchester City vs. Brighton",
-              "s": "Copa de la Liga · octavos",
-              "ch": "Disney+ Premium"
-            },
-            {
-              "t": "16:45",
-              "m": "Genoa vs. Juventus",
-              "s": "Serie A",
-              "ch": "Disney+ Premium · ESPN 2"
-            },
-            {
-              "t": "16:45",
-              "m": "Monza vs. Napoli",
-              "s": "Serie A",
-              "ch": "Disney+ Premium"
-            },
-            {
-              "t": "16:45",
-              "m": "Bournemouth vs. Aston Villa",
-              "s": "Copa de la Liga · octavos",
-              "ch": "Disney+ Premium"
-            },
-            {
-              "t": "16:45",
-              "m": "Fulham vs. Crystal Palace",
-              "s": "Copa de la Liga · octavos",
-              "ch": "Disney+ Premium"
-            },
-            {
-              "t": "16:45",
-              "m": "Sunderland vs. Brentford",
-              "s": "Copa de la Liga · octavos",
-              "ch": "Disney+ Premium"
-            },
-            {
-              "t": "17:00",
-              "m": "Liverpool vs. Chelsea",
-              "s": "Copa de la Liga · octavos",
-              "ch": "Disney+ Premium · ESPN"
-            }
-          ]
-        },
-        {
-          "day": "Sábado 31 oct",
-          "rows": [
-            {
-              "t": "09:30",
-              "m": "Chelsea vs. Manchester United",
-              "s": "Premier League",
-              "ch": "Disney+ Premium · ESPN (por confirmar)"
-            },
-            {
-              "t": "12:00",
-              "m": "Manchester City vs. Brighton",
-              "s": "Premier League",
-              "ch": "Disney+ Premium"
-            },
-            {
-              "t": "12:00",
-              "m": "Bournemouth vs. Leeds",
-              "s": "Premier League",
-              "ch": "Disney+ Premium"
-            },
-            {
-              "t": "12:00",
-              "m": "Brentford vs. Nottingham Forest",
-              "s": "Premier League",
-              "ch": "Disney+ Premium"
-            },
-            {
-              "t": "14:30",
-              "m": "Tottenham vs. Crystal Palace",
-              "s": "Premier League",
-              "ch": "Disney+ Premium"
-            },
-            {
-              "t": "17:00",
-              "m": "Barcelona vs. Alavés",
-              "s": "LaLiga · fecha 11",
-              "ch": "Disney+ Premium · ESPN (por confirmar)"
-            },
-            {
-              "t": "17:00",
-              "m": "Aston Villa vs. Fulham",
-              "s": "Premier League",
-              "ch": "Disney+ Premium"
-            }
-          ]
-        },
-        {
-          "day": "Domingo 1 nov",
-          "rows": [
-            {
-              "t": "13:30",
-              "m": "Liverpool vs. Arsenal",
-              "s": "Premier League",
-              "ch": "Disney+ Premium · ESPN (por confirmar)"
-            }
-          ]
-        },
         {
           "day": "Lunes 2 nov",
           "rows": [
             {
+              "t": "14:30",
+              "m": "Sassuolo vs. Fiorentina",
+              "s": "Serie A",
+              "ch": "Disney+ Premium · ESPN"
+            },
+            {
+              "t": "16:45",
+              "m": "Atalanta vs. Parma",
+              "s": "Serie A",
+              "ch": "Disney+ Premium"
+            },
+            {
               "t": "17:00",
               "m": "Newcastle vs. Everton",
               "s": "Premier League",
-              "ch": "Disney+ Premium"
+              "ch": "Disney+ Premium · ESPN"
+            },
+            {
+              "t": "17:00",
+              "m": "Deportivo vs. Osasuna",
+              "s": "LaLiga",
+              "ch": "Disney+ Premium · ESPN 4"
+            }
+          ]
+        },
+        {
+          "day": "Viernes 6 nov",
+          "rows": [
+            {
+              "t": "17:00",
+              "m": "Everton vs. Coventry",
+              "s": "Premier League",
+              "ch": "Disney+ Premium · ESPN (por confirmar)"
+            },
+            {
+              "t": "17:00",
+              "m": "Sevilla vs. Alavés",
+              "s": "LaLiga",
+              "ch": "Disney+ Premium · ESPN (por confirmar)"
+            }
+          ]
+        },
+        {
+          "day": "Sábado 7 nov",
+          "rows": [
+            {
+              "t": "09:30",
+              "m": "Leeds vs. Tottenham",
+              "s": "Premier League",
+              "ch": "Disney+ Premium · ESPN (por confirmar)"
+            },
+            {
+              "t": "12:00",
+              "m": "Arsenal vs. Hull City",
+              "s": "Premier League",
+              "ch": "Disney+ Premium · ESPN (por confirmar)"
+            },
+            {
+              "t": "14:30",
+              "m": "Nottingham Forest vs. Manchester City",
+              "s": "Premier League",
+              "ch": "Disney+ Premium · ESPN (por confirmar)"
+            },
+            {
+              "t": "16:45",
+              "m": "Roma vs. Sassuolo",
+              "s": "Serie A",
+              "ch": "Disney+ Premium · ESPN (por confirmar)"
+            },
+            {
+              "t": "17:00",
+              "m": "Valencia vs. Real Madrid",
+              "s": "LaLiga",
+              "ch": "Disney+ Premium · ESPN (por confirmar)"
+            }
+          ]
+        },
+        {
+          "day": "Domingo 8 nov",
+          "rows": [
+            {
+              "t": "08:30",
+              "m": "Napoli vs. Lazio",
+              "s": "Serie A",
+              "ch": "Disney+ Premium · ESPN (por confirmar)"
+            },
+            {
+              "t": "11:00",
+              "m": "Crystal Palace vs. Liverpool",
+              "s": "Premier League",
+              "ch": "Disney+ Premium · ESPN (por confirmar)"
+            },
+            {
+              "t": "11:00",
+              "m": "Sunderland vs. Chelsea",
+              "s": "Premier League",
+              "ch": "Disney+ Premium · ESPN (por confirmar)"
+            },
+            {
+              "t": "11:00",
+              "m": "Genoa vs. Milan",
+              "s": "Serie A",
+              "ch": "Disney+ Premium · ESPN (por confirmar)"
+            },
+            {
+              "t": "11:30",
+              "m": "Colonia vs. Bayer Leverkusen",
+              "s": "Bundesliga",
+              "ch": "Disney+ Premium · ESPN (por confirmar)"
+            },
+            {
+              "t": "13:30",
+              "m": "Manchester United vs. Aston Villa",
+              "s": "Premier League",
+              "ch": "Disney+ Premium · ESPN (por confirmar)"
+            },
+            {
+              "t": "14:00",
+              "m": "Inter vs. Como",
+              "s": "Serie A",
+              "ch": "Disney+ Premium · ESPN (por confirmar)"
+            },
+            {
+              "t": "16:45",
+              "m": "Fiorentina vs. Juventus",
+              "s": "Serie A",
+              "ch": "Disney+ Premium · ESPN (por confirmar)"
+            },
+            {
+              "t": "17:00",
+              "m": "Atlético de Madrid vs. Barcelona",
+              "s": "LaLiga",
+              "ch": "Disney+ Premium · ESPN (por confirmar)"
             }
           ]
         }
       ]
     }
   ],
-  "notes": "Horarios en hora de Chile continental (UTC−3). Las señales marcadas «por confirmar» pueden cambiar según la grilla de ESPN; en Disney+ Premium van todos los partidos de esas competiciones. El resto de la fecha de LaLiga, Bundesliga y Ligue 1 se agregará cuando se confirmen horarios.",
+  "notes": "Horarios en hora de Chile continental (UTC−3, horario de verano). Europa ya está en horario de invierno: España/Italia/Alemania −4 h y Reino Unido −3 h respecto de Chile. Las señales «por confirmar» pueden cambiar según la grilla de ESPN; en Disney+ Premium van todos los partidos de esas competiciones. La fecha 27 se reprogramó por la Teletón (6 y 7 de noviembre): el horario de U. de Chile vs. Cobresal aún no es definitivo. La Europa League (jueves 5) no se incluye.",
   "sources": [
     [
-      "RedGol · Programación fecha 26",
-      "https://redgol.cl/campeonato-nacional/programacion-fecha-26-liga-de-primera-2026-agenda-de-partidos-horarios-y-donde-ver-el-futbol-chileno"
+      "Cooperativa · Programación fecha 27",
+      "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/con-duelos-claves-en-simultaneo-la-programacion-de-la-fecha-27-de-la/2026-11-01/210219.html"
+    ],
+    [
+      "RedGol · Jornada 27 y la Teletón",
+      "https://redgol.cl/campeonato-nacional/liga-de-primera-programacion-jornada-27-anfp-teleton-cambios"
+    ],
+    [
+      "RedGol · Pendientes de Copa Chile",
+      "https://redgol.cl/chile/anfp-programa-partidos-pendientes-de-la-copa-chile-2026"
+    ],
+    [
+      "RedGol · U. de Chile vs. Antofagasta",
+      "https://redgol.cl/udechile/programan-el-partido-de-u-de-chile-vs-deportes-antofagasta-donde-se-juega"
+    ],
+    [
+      "T13 · Colo-Colo vs. Puerto Montt",
+      "https://www.t13.cl/noticia/deportes13/colo-colo-vs-puerto-montt-vivo-hora-donde-ver-segundo-tiempo-pendiente-copa-chi-1-11-2026"
     ],
     [
       "Fútbol en Vivo Chile",
       "https://www.futbolenvivochile.com/"
     ],
     [
-      "UEFA · Calendario fase liga",
-      "https://es.uefa.com/uefachampionsleague/news/02a8-21770946e8fd-0a24e3a0d63e-1000--partidos-y-resultados-por-equipos-de-la-fase-liga-de-la-c/"
+      "UEFA · Calendario Champions 2026/27",
+      "https://es.uefa.com/uefachampionsleague/news/02a8-21767f6df81a-a97aaf2bf581-1000--champions-league-2026-27-calendario-fechas-horarios-y-re/"
     ],
     [
-      "Wikipedia · Copa Libertadores 2026",
-      "https://es.wikipedia.org/wiki/Copa_Libertadores_2026"
+      "Premier League · Cambios de noviembre",
+      "https://www.premierleague.com/en/news/4725574"
+    ],
+    [
+      "ElDesmarque · Jornada 12 LaLiga",
+      "https://www.eldesmarque.com/futbol/liga-1a-division/20261012/horarios-fechas-tv-jornada-12-laliga-ea-sports_18_020410882.html"
+    ],
+    [
+      "Sportal · Serie A giornata 11",
+      "https://www.sportal.it/calcio/serie-a/serie-a-2026-2027-anticipi-e-posticipi-dalla-sesta-alla-dodicesima-giornata-date-orari-e-canali-tv.html"
+    ],
+    [
+      "Bundesliga · Horarios hasta noviembre",
+      "https://www.bundesliga.com/de/bundesliga/news/ansetzungen-spieltage-termine-zeitgenau-fans-24024"
+    ],
+    [
+      "Primicias · Palmeiras finalista",
+      "https://www.primicias.ec/deportes/futbol/palmeiras-gana-fluminense-penales-clasifica-final-copa-libertadores-135477/"
     ]
   ]
 }
