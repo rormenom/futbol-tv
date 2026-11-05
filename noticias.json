@@ -1,6 +1,14 @@
 {
-  "updated": "Semana 45 · 2 nov – 8 nov · Actualizado el jueves 5 de noviembre a las 13:41.",
+  "updated": "Semana 45 · 2 nov – 8 nov · Actualizado el jueves 5 de noviembre a las 19:47.",
   "items": [
+    {
+      "date": "2026-11-05",
+      "time": "17:56",
+      "source": "Prensa Fútbol",
+      "title": "Everton vs. Concepción: Horario, posibles XI y dónde ver partido de Liga de Primera",
+      "url": "https://www.prensafutbol.cl/everton-vs-concepcion-hora-los-xi-donde-verlo/",
+      "summary": "Previa del duelo del sábado ante Everton en el Sausalito por la fecha 27, con horario, posibles formaciones y transmisión."
+    },
     {
       "date": "2026-11-04",
       "time": "16:28",
@@ -192,14 +200,6 @@
       "title": "El triunfo ante Palestino que reavivó la ilusión de Sudamericana para D. Concepción",
       "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/el-triunfo-ante-palestino-que-reavivo-la-ilusion-de-sudamericana-para-d/2026-11-02/231237.html",
       "summary": "Galería y crónica del 1-0 ante Palestino que deja al Conce a tres puntos de la zona de clasificación a Copa Sudamericana."
-    },
-    {
-      "date": "2026-11-02",
-      "time": "",
-      "source": "Diario Concepción",
-      "title": "Volvió la alegría lila: a solo 3 puntos de la Sudamericana",
-      "url": "https://www.diarioconcepcion.cl/deportes/2026/11/02/volvio-la-alegria-lila-a-solo-3-puntos-de-la-sudamericana.html",
-      "summary": "El diario penquista repasa la victoria ante Palestino, el gol de Grillo y la solidez defensiva del Conce."
     }
   ],
   "follow": [
