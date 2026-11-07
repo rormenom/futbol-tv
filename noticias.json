@@ -1,6 +1,22 @@
 {
-  "updated": "Semana 45 · 2 nov – 8 nov · Actualizado el sábado 7 de noviembre a las 16:41.",
+  "updated": "Semana 45 · 2 nov – 8 nov · Actualizado el sábado 7 de noviembre a las 19:44.",
   "items": [
+    {
+      "date": "2026-11-07",
+      "time": "19:30",
+      "source": "RedGol",
+      "title": "Tabla de posiciones: Concepción amarga a Everton y se ilusiona con la Copa Sudamericana",
+      "url": "https://redgol.cl/chile/tabla-de-posiciones-concepcion-amarga-a-everton-y-se-ilusiona-con-la-copa-sudamericana",
+      "summary": "El Conce ganó 2-0 en Viña con goles de Jara y Henríquez, llegó a 38 puntos y alcanzó a Palestino en zona Sudamericana."
+    },
+    {
+      "date": "2026-11-07",
+      "time": "19:12",
+      "source": "Cooperativa",
+      "title": "[Radio en vivo🎙] Everton cayó con Deportes Concepción por la fecha 27",
+      "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/radio-en-vivo-everton-cae-con-deportes-concepcion-por-la-fecha-27/2026-11-07/123544.html",
+      "summary": "Relato y seguimiento del triunfo lila por 2-0 en el Sausalito, con goles de Aldrix Jara y Jorge Henríquez en el segundo tiempo."
+    },
     {
       "date": "2026-11-07",
       "time": "09:48",
@@ -184,22 +200,6 @@
       "title": "Tras Deportes Concepción 1-0 Palestino: Tabla de Posiciones Liga de Primera tras jornada 26",
       "url": "https://redgol.cl/campeonato-nacional/deportes-concepcion-1-0-palestino-tabla-de-posiciones-liga-de-primera-jornada-26",
       "summary": "Con gol de Fausto Grillo, el Conce venció 1-0 a Palestino y subió al noveno lugar con 35 puntos, ilusionado con copas internacionales."
-    },
-    {
-      "date": "2026-11-02",
-      "time": "21:07",
-      "source": "Cooperativa",
-      "title": "Deportes Concepción vence a Palestino en el cierre de la fecha 26",
-      "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/deportes-concepcion-vence-a-palestino-en-el-cierre-de-la-fecha-26/2026-10-30/162011.html",
-      "summary": "Seguimiento del triunfo lila ante Palestino en el Ester Roa, con el gol de Fausto Grillo en el primer tiempo."
-    },
-    {
-      "date": "2026-11-02",
-      "time": "18:30",
-      "source": "365Scores",
-      "title": "Qué canal pasa Deportes Concepción vs Palestino hoy: dónde ver en vivo",
-      "url": "https://www.365scores.com/es/news/donde-ver-concepcion-vs-palestino-hoy/",
-      "summary": "Datos de transmisión, estadio y árbitro del duelo entre el Conce y Palestino por la fecha 26 de la Liga de Primera."
     }
   ],
   "follow": [
