@@ -1,6 +1,14 @@
 {
-  "updated": "Semana 45 · 2 nov – 8 nov · Actualizado el sábado 7 de noviembre a las 19:44.",
+  "updated": "Semana 45 · 2 nov – 8 nov · Actualizado el domingo 8 de noviembre a las 10:47.",
   "items": [
+    {
+      "date": "2026-11-07",
+      "time": "19:32",
+      "source": "BioBioChile",
+      "title": "Concepción no se rinde: superó a Everton en Viña y sigue luchando por volver a copa internacional",
+      "url": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/07/concepcion-no-se-rinde-supero-a-everton-en-vina-y-sigue-luchando-por-volver-a-copa-internacional.shtml",
+      "summary": "Crónica del 2-0 lila en Viña del Mar, resultado que mantiene al Conce en la pelea por un cupo a Copa Sudamericana."
+    },
     {
       "date": "2026-11-07",
       "time": "19:30",
@@ -32,6 +40,14 @@
       "title": "Everton vs Deportes Concepción: dónde ver en VIVO y online la Liga de Primera",
       "url": "https://www.pauta.cl/deportes/2026/11/07/everton-vs-deportes-concepcion-donde-ver-en-vivo-y-online-la-liga-de-primera.html",
       "summary": "Guía de transmisión por TV y en línea del partido de esta tarde entre el Conce y Everton en el Sausalito."
+    },
+    {
+      "date": "2026-11-07",
+      "time": "",
+      "source": "Diario Concepción",
+      "title": "Deportes Concepción derrota a Everton y sueña con América",
+      "url": "https://www.diarioconcepcion.cl/deportes/2026/11/07/deportes-concepcion-derrota-a-everton-y-suena-con-america.html",
+      "summary": "El diario penquista repasa la victoria visitante del Conce, resuelta en el segundo tiempo, y su acercamiento a puestos internacionales."
     },
     {
       "date": "2026-11-06",
@@ -184,22 +200,6 @@
       "title": "Pruebas masivas reunieron a cerca de 200 niños en Curanilahue",
       "url": "https://elconce.cl/2026/11/03/pruebas-masivas-reunieron-a-cerca-de-200-ninos-en-curanilahue/",
       "summary": "El club realizó una jornada de captación de talentos en Curanilahue que convocó a unos 200 niños."
-    },
-    {
-      "date": "2026-11-02",
-      "time": "22:36",
-      "source": "En Cancha",
-      "title": "Deportes Concepción vuelve a sonreír: venció a Palestino y se ilusiona con un cupo internacional",
-      "url": "https://www.encancha.cl/futbol-chileno/primera/2026/11/2/deportes-concepcion-vuelve-a-sonreir-vencio-a-palestino-y-se-ilusiona-con-un-cupo-internacional-323908.html",
-      "summary": "Crónica del triunfo lila por la fecha 26 que acerca al equipo a los puestos de Copa Sudamericana."
-    },
-    {
-      "date": "2026-11-02",
-      "time": "22:28",
-      "source": "RedGol",
-      "title": "Tras Deportes Concepción 1-0 Palestino: Tabla de Posiciones Liga de Primera tras jornada 26",
-      "url": "https://redgol.cl/campeonato-nacional/deportes-concepcion-1-0-palestino-tabla-de-posiciones-liga-de-primera-jornada-26",
-      "summary": "Con gol de Fausto Grillo, el Conce venció 1-0 a Palestino y subió al noveno lugar con 35 puntos, ilusionado con copas internacionales."
     }
   ],
   "follow": [
