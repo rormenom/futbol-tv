@@ -1,108 +1,134 @@
 {
-  "week": "Semana 46 · 9 nov – 15 nov 2026",
-  "updated": "Actualizado el sábado 14 de noviembre de 2026. Próxima actualización: lunes 16 de noviembre, 06:00.",
+  "week": "Semana 47 · 16 nov – 22 nov 2026",
+  "updated": "Actualizado el lunes 16 de noviembre de 2026. Próxima actualización: lunes 23 de noviembre, 06:00.",
   "team": {
     "name": "Deportes Concepción",
-    "none": "Sin partido esta semana (fecha FIFA). Próximo: domingo 22 de noviembre a las 12:00, Huachipato vs. Deportes Concepción en el Estadio Huachipato (Liga de Primera, fecha 28)."
+    "match": "Huachipato vs. Deportes Concepción",
+    "when": "Domingo 22 de noviembre · 12:00",
+    "info": "Liga de Primera, fecha 28 · Estadio Huachipato (Talcahuano) · TNT Sports Premium · HBO Max"
   },
   "highlights": [
     {
-      "when": "Nations League · Jue 12 nov · 16:45",
-      "match": "Italia vs. Francia",
-      "ch": "Disney+ Premium · ESPN (por confirmar)"
-    },
-    {
-      "when": "Amistoso · Vie 13 nov · 20:00",
-      "match": "Argentina vs. Uruguay",
-      "ch": "Por confirmar"
-    },
-    {
-      "when": "Amistoso · Vie 13 nov · 21:00",
-      "match": "Colombia vs. Chile",
+      "when": "Amistoso · Mar 17 nov · 20:00",
+      "match": "Chile vs. Colombia",
       "ch": "Mega · MegaGO"
     },
     {
-      "when": "Nations League · Sáb 14 nov · 16:45",
-      "match": "Portugal vs. Dinamarca",
+      "when": "Premier League · Sáb 21 nov · 14:30",
+      "match": "Newcastle vs. Arsenal",
       "ch": "Disney+ Premium · ESPN (por confirmar)"
     },
     {
-      "when": "Nations League · Dom 15 nov · 16:45",
-      "match": "España vs. Inglaterra",
+      "when": "Sudamericana · Sáb 21 nov · 19:30",
+      "match": "Atlético Mineiro vs. Boca Juniors",
+      "ch": "ESPN · Disney+ Premium"
+    },
+    {
+      "when": "Liga de Primera · Dom 22 nov · 12:00",
+      "match": "Huachipato vs. Deportes Concepción",
+      "ch": "TNT Sports Premium · HBO Max"
+    },
+    {
+      "when": "Premier League · Dom 22 nov · 13:30",
+      "match": "Liverpool vs. Manchester United",
       "ch": "Disney+ Premium · ESPN (por confirmar)"
     },
     {
-      "when": "Nations League · Dom 15 nov · 16:45",
-      "match": "Bélgica vs. Italia",
-      "ch": "Disney+ Premium"
+      "when": "Liga de Primera · Dom 22 nov · 18:00",
+      "match": "Colo-Colo vs. Universidad Católica",
+      "ch": "TNT Sports Premium · HBO Max"
     }
   ],
   "comps": [
     {
       "name": "Liga de Primera",
-      "days": [],
-      "empty": "Sin partidos esta semana (fecha FIFA).",
-      "next": "<b>Fecha 28:</b> del viernes 20 al domingo 22 de noviembre. Deportes Concepción visita a Huachipato el domingo 22 a las 12:00 (Estadio Huachipato)."
-    },
-    {
-      "name": "Selección chilena",
-      "sub": "Fecha FIFA · Amistosos ante Colombia",
+      "sub": "Fecha 28",
       "days": [
         {
-          "day": "Viernes 13 nov",
+          "day": "Viernes 20 nov",
           "rows": [
             {
-              "t": "21:00",
-              "m": "Colombia vs. Chile",
-              "s": "Amistoso · Estadio Pascual Guerrero (Cali)",
-              "ch": "Mega · MegaGO"
+              "t": "18:00",
+              "m": "Cobresal vs. Audax Italiano",
+              "s": "Estadio El Cobre",
+              "ch": "TNT Sports Premium · HBO Max"
+            },
+            {
+              "t": "20:30",
+              "m": "Palestino vs. Unión La Calera",
+              "s": "Estadio Municipal de La Cisterna",
+              "ch": "TNT Sports Premium · HBO Max"
+            }
+          ]
+        },
+        {
+          "day": "Sábado 21 nov",
+          "rows": [
+            {
+              "t": "12:00",
+              "m": "Coquimbo Unido vs. Everton",
+              "s": "Estadio Francisco Sánchez Rumoroso",
+              "ch": "TNT Sports Premium · HBO Max"
+            },
+            {
+              "t": "18:00",
+              "m": "O'Higgins vs. Universidad de Chile",
+              "s": "Estadio El Teniente",
+              "ch": "TNT Sports Premium · HBO Max"
+            },
+            {
+              "t": "20:30",
+              "m": "U. de Concepción vs. Ñublense",
+              "s": "Estadio Ester Roa",
+              "ch": "TNT Sports Premium · HBO Max"
+            }
+          ]
+        },
+        {
+          "day": "Domingo 22 nov",
+          "rows": [
+            {
+              "t": "12:00",
+              "m": "Huachipato vs. Deportes Concepción",
+              "s": "Estadio Huachipato · lucha por el cupo a Sudamericana",
+              "ch": "TNT Sports Premium · HBO Max",
+              "tag": "Conce"
+            },
+            {
+              "t": "18:00",
+              "m": "Colo-Colo vs. Universidad Católica",
+              "s": "Estadio Monumental",
+              "ch": "TNT Sports Premium · HBO Max"
+            },
+            {
+              "t": "20:30",
+              "m": "Deportes Limache vs. Deportes La Serena",
+              "s": "Estadio Lucio Fariña",
+              "ch": "TNT Sports Premium · HBO Max"
             }
           ]
         }
       ],
-      "next": "<b>Revancha:</b> martes 17 de noviembre, 20:00, Chile vs. Colombia en el Estadio Nacional. Mega · MegaGO."
+      "next": "<b>Fecha 29:</b> fin de semana del 27 al 29 de noviembre. Deportes Concepción recibe a Universidad de Chile el domingo 29 a las 18:00."
     },
     {
-      "name": "Liga de Ascenso (Primera B)",
-      "sub": "Última fecha · todos el domingo 15",
+      "name": "Copa Chile",
+      "days": [],
+      "empty": "Sin partidos esta semana.",
+      "next": "<b>Cuartos de final (vuelta):</b> martes 24 de noviembre, Coquimbo Unido vs. Unión La Calera (ida 2-0 para Coquimbo). Semifinales: Colo-Colo vs. O'Higgins y U. de Chile vs. Coquimbo/La Calera, probablemente a inicios de diciembre."
+    },
+    {
+      "name": "Selección chilena",
+      "sub": "Fecha FIFA · Revancha ante Colombia",
       "days": [
         {
-          "day": "Domingo 15 nov",
+          "day": "Martes 17 nov",
           "rows": [
             {
-              "t": "12:00",
-              "m": "Santiago Wanderers vs. Deportes Copiapó",
-              "ch": "TNT Sports Premium · HBO Max (por confirmar)"
-            },
-            {
-              "t": "18:00",
-              "m": "Magallanes vs. Deportes Antofagasta",
-              "ch": "TNT Sports Premium · HBO Max (por confirmar)"
-            },
-            {
-              "t": "18:00",
-              "m": "San Marcos de Arica vs. San Luis",
-              "ch": "TNT Sports Premium · HBO Max (por confirmar)"
-            },
-            {
-              "t": "18:00",
-              "m": "Unión San Felipe vs. Unión Española",
-              "ch": "TNT Sports Premium · HBO Max (por confirmar)"
-            },
-            {
-              "t": "18:00",
-              "m": "Deportes Santa Cruz vs. Rangers",
-              "ch": "TNT Sports Premium · HBO Max (por confirmar)"
-            },
-            {
-              "t": "18:00",
-              "m": "Cobreloa vs. Deportes Puerto Montt",
-              "ch": "TNT Sports Premium · HBO Max (por confirmar)"
-            },
-            {
-              "t": "20:30",
-              "m": "Deportes Recoleta vs. Deportes Iquique",
-              "ch": "TNT Sports Premium · HBO Max (por confirmar)"
+              "t": "20:00",
+              "m": "Chile vs. Colombia",
+              "s": "Amistoso · Estadio Nacional",
+              "ch": "Mega · MegaGO"
             }
           ]
         }
@@ -116,168 +142,209 @@
     },
     {
       "name": "Copa Sudamericana",
-      "days": [],
-      "empty": "Sin partidos esta semana.",
-      "next": "<b>Final:</b> sábado 21 de noviembre, Estadio Metropolitano (Barranquilla). Atlético Mineiro vs. Boca Juniors. ESPN · Disney+ Premium."
+      "sub": "Final a partido único",
+      "days": [
+        {
+          "day": "Sábado 21 nov",
+          "rows": [
+            {
+              "t": "19:30",
+              "m": "Atlético Mineiro vs. Boca Juniors",
+              "s": "Final · Estadio Metropolitano (Barranquilla)",
+              "ch": "ESPN · Disney+ Premium",
+              "tag": "Final"
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "Champions League",
       "days": [],
-      "empty": "Sin partidos esta semana (fecha FIFA).",
-      "next": "<b>Jornada 5 de la fase liga:</b> martes 24 y miércoles 25 de noviembre (por confirmar). Disney+ Premium · ESPN."
+      "empty": "Sin partidos esta semana.",
+      "next": "<b>Jornada 5 de la fase liga:</b> martes 24 y miércoles 25 de noviembre. Disney+ Premium · ESPN."
     },
     {
       "name": "Otras ligas",
-      "sub": "Fecha FIFA: Nations League (Liga A) y amistosos de selecciones",
+      "sub": "Cierre de la fecha FIFA y regreso de las ligas europeas",
       "days": [
         {
-          "day": "Jueves 12 nov",
+          "day": "Lunes 16 nov",
           "rows": [
             {
               "t": "16:45",
-              "m": "Italia vs. Francia",
-              "s": "Nations League · terminó 3-1",
-              "ch": "Disney+ Premium · ESPN (por confirmar)"
-            },
-            {
-              "t": "16:45",
-              "m": "Inglaterra vs. Croacia",
-              "s": "Nations League · terminó 2-1",
+              "m": "Alemania vs. Países Bajos",
+              "s": "Nations League",
               "ch": "Disney+ Premium"
             },
             {
               "t": "16:45",
-              "m": "Chequia vs. España",
-              "s": "Nations League · terminó 0-2",
-              "ch": "Disney+ Premium"
-            },
-            {
-              "t": "16:45",
-              "m": "Turquía vs. Bélgica",
-              "s": "Nations League · terminó 1-2",
+              "m": "Suiza vs. Escocia",
+              "s": "Nations League",
               "ch": "Disney+ Premium"
             }
           ]
         },
         {
-          "day": "Viernes 13 nov",
+          "day": "Martes 17 nov",
           "rows": [
             {
               "t": "16:45",
-              "m": "Países Bajos vs. Grecia",
-              "s": "Nations League · terminó 7-0",
+              "m": "Dinamarca vs. Noruega",
+              "s": "Nations League",
               "ch": "Disney+ Premium"
             },
             {
               "t": "16:45",
-              "m": "Serbia vs. Alemania",
-              "s": "Nations League · terminó 1-3",
+              "m": "Gales vs. Portugal",
+              "s": "Nations League",
               "ch": "Disney+ Premium"
             },
             {
               "t": "20:00",
-              "m": "Argentina vs. Uruguay",
+              "m": "Argentina vs. Costa Rica",
               "s": "Amistoso",
               "ch": "Por confirmar"
             },
             {
-              "t": "21:00",
-              "m": "Ecuador vs. Costa Rica",
-              "s": "Amistoso",
-              "ch": "Por confirmar"
-            },
-            {
-              "t": "22:00",
-              "m": "Perú vs. Bolivia",
+              "t": "20:30",
+              "m": "Uruguay vs. República Dominicana",
               "s": "Amistoso",
               "ch": "Por confirmar"
             }
           ]
         },
         {
-          "day": "Sábado 14 nov",
+          "day": "Viernes 20 nov",
           "rows": [
             {
-              "t": "07:15",
-              "m": "Japón vs. Brasil",
-              "s": "Amistoso",
-              "ch": "Por confirmar"
+              "t": "17:00",
+              "m": "Athletic Club vs. Espanyol",
+              "s": "LaLiga",
+              "ch": "Disney+ Premium · ESPN (por confirmar)"
+            }
+          ]
+        },
+        {
+          "day": "Sábado 21 nov",
+          "rows": [
+            {
+              "t": "09:30",
+              "m": "Manchester City vs. Fulham",
+              "s": "Premier League",
+              "ch": "Disney+ Premium · ESPN (por confirmar)"
+            },
+            {
+              "t": "12:00",
+              "m": "Chelsea vs. Leeds United",
+              "s": "Premier League",
+              "ch": "Disney+ Premium · ESPN (por confirmar)"
             },
             {
               "t": "14:00",
-              "m": "Noruega vs. Gales",
-              "s": "Nations League",
-              "ch": "Disney+ Premium"
+              "m": "Parma vs. Roma",
+              "s": "Serie A",
+              "ch": "Disney+ Premium · ESPN (por confirmar)"
+            },
+            {
+              "t": "14:30",
+              "m": "Sevilla vs. Betis",
+              "s": "LaLiga · derbi sevillano",
+              "ch": "Disney+ Premium · ESPN (por confirmar)"
+            },
+            {
+              "t": "14:30",
+              "m": "Newcastle vs. Arsenal",
+              "s": "Premier League",
+              "ch": "Disney+ Premium · ESPN (por confirmar)"
             },
             {
               "t": "16:45",
-              "m": "Portugal vs. Dinamarca",
-              "s": "Nations League",
+              "m": "Napoli vs. Torino",
+              "s": "Serie A",
+              "ch": "Disney+ Premium · ESPN (por confirmar)"
+            },
+            {
+              "t": "17:00",
+              "m": "Real Madrid vs. Celta",
+              "s": "LaLiga",
               "ch": "Disney+ Premium · ESPN (por confirmar)"
             }
           ]
         },
         {
-          "day": "Domingo 15 nov",
+          "day": "Domingo 22 nov",
           "rows": [
             {
-              "t": "16:45",
-              "m": "España vs. Inglaterra",
-              "s": "Nations League",
+              "t": "08:30",
+              "m": "Juventus vs. Venezia",
+              "s": "Serie A",
+              "ch": "Disney+ Premium · ESPN (por confirmar)"
+            },
+            {
+              "t": "10:00",
+              "m": "Barcelona vs. Villarreal",
+              "s": "LaLiga",
+              "ch": "Disney+ Premium · ESPN (por confirmar)"
+            },
+            {
+              "t": "13:30",
+              "m": "Liverpool vs. Manchester United",
+              "s": "Premier League",
+              "ch": "Disney+ Premium · ESPN (por confirmar)"
+            },
+            {
+              "t": "14:00",
+              "m": "Milan vs. Frosinone",
+              "s": "Serie A",
               "ch": "Disney+ Premium · ESPN (por confirmar)"
             },
             {
               "t": "16:45",
-              "m": "Bélgica vs. Italia",
-              "s": "Nations League",
-              "ch": "Disney+ Premium"
+              "m": "Atalanta vs. Inter",
+              "s": "Serie A",
+              "ch": "Disney+ Premium · ESPN (por confirmar)"
             },
             {
-              "t": "16:45",
-              "m": "Francia vs. Turquía",
-              "s": "Nations League",
-              "ch": "Disney+ Premium"
-            },
-            {
-              "t": "16:45",
-              "m": "Croacia vs. Chequia",
-              "s": "Nations League",
-              "ch": "Disney+ Premium"
+              "t": "17:00",
+              "m": "Getafe vs. Atlético de Madrid",
+              "s": "LaLiga",
+              "ch": "Disney+ Premium · ESPN (por confirmar)"
             }
           ]
         }
       ]
     }
   ],
-  "notes": "Horarios en hora de Chile continental (UTC−3, horario de verano); Europa central está 4 horas adelante. Semana de fecha FIFA: no hay Liga de Primera, Champions ni ligas europeas. Programación preparada por la tarea de noticias como respaldo; los canales «por confirmar» pueden cambiar. En Disney+ Premium van los partidos de la Nations League.",
+  "notes": "Horarios en hora de Chile continental (UTC−3, horario de verano); Reino Unido está 3 horas adelante y Europa central 4. Programación preparada por la tarea de noticias como respaldo: no incluye Bundesliga ni Ligue 1 y los canales «por confirmar» pueden cambiar. La Liga de Primera va por TNT Sports Premium · HBO Max.",
   "sources": [
     [
       "Cooperativa · Programación fecha 28",
       "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/el-campeon-estrena-el-titulo-la-programacion-de-la-fecha-28-de-la-liga/2026-11-08/214949.html"
     ],
     [
-      "BioBioChile · Colombia vs. Chile",
-      "https://www.biobiochile.cl/noticias/servicios/toma-nota/2026/11/13/a-que-hora-juegan-y-donde-ver-el-amistoso-internacional-entre-chile-vs-colombia.shtml"
-    ],
-    [
-      "CNN Chile · Chile vs. Colombia en el Nacional",
-      "https://www.cnnchile.com/deportes/chile-colombia-horario-donde-ver-vivo-estadio-nacional-noviembre-2026/"
-    ],
-    [
-      "SabesDeportes · Última fecha Liga de Ascenso",
-      "https://sabesdeportes.com/2026/11/12/ya-hay-ultima-fecha-anfp-oficializo-la-programacion-de-los-partidos-de-la-liga-de-ascenso/"
-    ],
-    [
-      "UEFA · Calendario Nations League 2026/27",
-      "https://es.uefa.com/uefanationsleague/news/02a2-1fea1edbc9a9-78c6728d4928-1000--uefa-nations-league-2026-27-partidos-calendario-y-result/"
+      "Emol · Semifinales Copa Chile",
+      "https://www.emol.com/noticias/Deportes/2026/11/06/1216296/copachile-semifinales-colocolo-u.html"
     ],
     [
       "Primicias · Horarios de la fecha FIFA",
       "https://www.primicias.ec/deportes/futbol/horarios-calendario-partidos-amistosos-fecha-fifa-nations-league-136817/"
     ],
     [
-      "Emol · Semifinales Copa Chile",
-      "https://www.emol.com/noticias/Deportes/2026/11/06/1216296/copachile-semifinales-colocolo-u.html"
+      "Primicias · Horario final Copa Sudamericana",
+      "https://www.primicias.ec/deportes/futbol/conmebol-horario-final-copa-sudamericana-boca-juniors-atletico-mineiro-barranquilla-136188/"
+    ],
+    [
+      "Premier League · Programación de noviembre",
+      "https://www.premierleague.com/en/news/4725574"
+    ],
+    [
+      "ElDesmarque · Horarios jornada 13 LaLiga",
+      "https://www.eldesmarque.com/futbol/liga-1a-division/20261021/fechas-horarios-partidos-jornada-13-laliga_18_020499599.html"
+    ],
+    [
+      "Fantamaster · Anticipi e posticipi Serie A",
+      "https://www.fantamaster.it/seriea-anticipi-posticipi-date-orari-programmazione-tv-dalla-12-alla-19-giornata/"
     ]
   ]
 }
