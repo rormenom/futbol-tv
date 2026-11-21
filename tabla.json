@@ -1,0 +1,237 @@
+{
+  "title": "Liga de Primera 2026",
+  "round": "Tras la fecha 27 de 30",
+  "updated": "Actualizado el viernes 20 de noviembre de 2026.",
+  "champion": "Colo-Colo ya es campeón.",
+  "rows": [
+    {
+      "pos": 1,
+      "team": "Colo-Colo",
+      "pj": 27,
+      "pg": 19,
+      "pe": 4,
+      "pp": 4,
+      "gf": 59,
+      "gc": 30,
+      "dif": 29,
+      "pts": 61
+    },
+    {
+      "pos": 2,
+      "team": "U. de Chile",
+      "pj": 27,
+      "pg": 15,
+      "pe": 6,
+      "pp": 6,
+      "gf": 47,
+      "gc": 22,
+      "dif": 25,
+      "pts": 51
+    },
+    {
+      "pos": 3,
+      "team": "U. Católica",
+      "pj": 27,
+      "pg": 15,
+      "pe": 4,
+      "pp": 8,
+      "gf": 56,
+      "gc": 37,
+      "dif": 19,
+      "pts": 49
+    },
+    {
+      "pos": 4,
+      "team": "Deportes Limache",
+      "pj": 27,
+      "pg": 12,
+      "pe": 4,
+      "pp": 11,
+      "gf": 48,
+      "gc": 40,
+      "dif": 8,
+      "pts": 40
+    },
+    {
+      "pos": 5,
+      "team": "Everton",
+      "pj": 27,
+      "pg": 11,
+      "pe": 7,
+      "pp": 9,
+      "gf": 43,
+      "gc": 35,
+      "dif": 8,
+      "pts": 40
+    },
+    {
+      "pos": 6,
+      "team": "Coquimbo Unido",
+      "pj": 27,
+      "pg": 11,
+      "pe": 5,
+      "pp": 11,
+      "gf": 39,
+      "gc": 36,
+      "dif": 3,
+      "pts": 38
+    },
+    {
+      "pos": 7,
+      "team": "Palestino",
+      "pj": 27,
+      "pg": 11,
+      "pe": 5,
+      "pp": 11,
+      "gf": 39,
+      "gc": 38,
+      "dif": 1,
+      "pts": 38
+    },
+    {
+      "pos": 8,
+      "team": "Deportes Concepción",
+      "pj": 27,
+      "pg": 11,
+      "pe": 5,
+      "pp": 11,
+      "gf": 30,
+      "gc": 30,
+      "dif": 0,
+      "pts": 38
+    },
+    {
+      "pos": 9,
+      "team": "Deportes La Serena",
+      "pj": 27,
+      "pg": 9,
+      "pe": 10,
+      "pp": 8,
+      "gf": 40,
+      "gc": 42,
+      "dif": -2,
+      "pts": 37
+    },
+    {
+      "pos": 10,
+      "team": "Huachipato",
+      "pj": 27,
+      "pg": 10,
+      "pe": 6,
+      "pp": 11,
+      "gf": 35,
+      "gc": 41,
+      "dif": -6,
+      "pts": 36
+    },
+    {
+      "pos": 11,
+      "team": "Ñublense",
+      "pj": 27,
+      "pg": 9,
+      "pe": 8,
+      "pp": 10,
+      "gf": 31,
+      "gc": 41,
+      "dif": -10,
+      "pts": 35
+    },
+    {
+      "pos": 12,
+      "team": "O'Higgins",
+      "pj": 27,
+      "pg": 9,
+      "pe": 4,
+      "pp": 14,
+      "gf": 32,
+      "gc": 42,
+      "dif": -10,
+      "pts": 31
+    },
+    {
+      "pos": 13,
+      "team": "Audax Italiano",
+      "pj": 27,
+      "pg": 7,
+      "pe": 9,
+      "pp": 11,
+      "gf": 28,
+      "gc": 36,
+      "dif": -8,
+      "pts": 30
+    },
+    {
+      "pos": 14,
+      "team": "Cobresal",
+      "pj": 27,
+      "pg": 7,
+      "pe": 6,
+      "pp": 14,
+      "gf": 39,
+      "gc": 50,
+      "dif": -11,
+      "pts": 27
+    },
+    {
+      "pos": 15,
+      "team": "U. de Concepción",
+      "pj": 27,
+      "pg": 7,
+      "pe": 5,
+      "pp": 15,
+      "gf": 22,
+      "gc": 49,
+      "dif": -27,
+      "pts": 26
+    },
+    {
+      "pos": 16,
+      "team": "Unión La Calera",
+      "pj": 27,
+      "pg": 6,
+      "pe": 6,
+      "pp": 15,
+      "gf": 24,
+      "gc": 43,
+      "dif": -19,
+      "pts": 24
+    }
+  ],
+  "zones": [
+    {
+      "from": 1,
+      "to": 2,
+      "label": "Copa Libertadores",
+      "kind": "lib"
+    },
+    {
+      "from": 3,
+      "to": 3,
+      "label": "Repechaje a Libertadores (vs. campeón de Copa Chile)",
+      "kind": "pre"
+    },
+    {
+      "from": 4,
+      "to": 6,
+      "label": "Copa Sudamericana",
+      "kind": "sud"
+    },
+    {
+      "from": 15,
+      "to": 16,
+      "label": "Descenso a la Liga de Ascenso",
+      "kind": "des"
+    }
+  ],
+  "notes": "Los cupos internacionales pueden cambiar según quién gane la Copa Chile.",
+  "sources": [
+    [
+      "Emol · Tabla de posiciones",
+      "https://www.emol.com/especiales/2026/deportes/liga-de-primera/tabla-posiciones.asp"
+    ],
+    [
+      "Cooperativa · Tabla fecha 28",
+      "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/estadisticas-la-tabla-de-posiciones-de-la-liga-de-primera-en-la-fecha-28/2026-11-20/122247.html"
+    ]
+  ]
+}
