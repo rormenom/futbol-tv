@@ -1,7 +1,7 @@
 {
   "title": "Liga de Primera 2026",
   "round": "Fecha 28 en juego",
-  "updated": "Actualizado el domingo 22 de noviembre de 2026 a las 10:58.",
+  "updated": "Actualizado el domingo 22 de noviembre de 2026 a las 16:45.",
   "champion": "Colo-Colo ya es campeón.",
   "rows": [
     {
@@ -78,6 +78,18 @@
     },
     {
       "pos": 7,
+      "team": "Deportes Concepción",
+      "pj": 28,
+      "pg": 11,
+      "pe": 6,
+      "pp": 11,
+      "gf": 30,
+      "gc": 30,
+      "dif": 0,
+      "pts": 39
+    },
+    {
+      "pos": 8,
       "team": "Palestino",
       "pj": 28,
       "pg": 11,
@@ -85,18 +97,6 @@
       "pp": 12,
       "gf": 39,
       "gc": 39,
-      "dif": 0,
-      "pts": 38
-    },
-    {
-      "pos": 8,
-      "team": "Deportes Concepción",
-      "pj": 27,
-      "pg": 11,
-      "pe": 5,
-      "pp": 11,
-      "gf": 30,
-      "gc": 30,
       "dif": 0,
       "pts": 38
     },
@@ -127,14 +127,14 @@
     {
       "pos": 11,
       "team": "Huachipato",
-      "pj": 27,
+      "pj": 28,
       "pg": 10,
-      "pe": 6,
+      "pe": 7,
       "pp": 11,
       "gf": 35,
       "gc": 41,
       "dif": -6,
-      "pts": 36
+      "pts": 37
     },
     {
       "pos": 12,
@@ -252,6 +252,10 @@
     [
       "Al Aire Libre · Tabla Liga de Primera",
       "https://www.alairelibre.cl/futbol/tabla/liga-de-primera/"
+    ],
+    [
+      "PrensaFútbol · Huachipato 0-0 D. Concepción",
+      "https://www.prensafutbol.cl/huachipato-y-concepcion-empate-clasico-biobio/"
     ]
   ]
 }
