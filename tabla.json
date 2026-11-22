@@ -1,7 +1,7 @@
 {
   "title": "Liga de Primera 2026",
   "round": "Fecha 28 en juego",
-  "updated": "Actualizado el sábado 21 de noviembre de 2026 a las 16:45.",
+  "updated": "Actualizado el domingo 22 de noviembre de 2026 a las 10:58.",
   "champion": "Colo-Colo ya es campeón.",
   "rows": [
     {
@@ -19,14 +19,14 @@
     {
       "pos": 2,
       "team": "U. de Chile",
-      "pj": 27,
-      "pg": 15,
+      "pj": 28,
+      "pg": 16,
       "pe": 6,
       "pp": 6,
-      "gf": 47,
+      "gf": 48,
       "gc": 22,
-      "dif": 25,
-      "pts": 51
+      "dif": 26,
+      "pts": 54
     },
     {
       "pos": 3,
@@ -102,6 +102,18 @@
     },
     {
       "pos": 9,
+      "team": "Ñublense",
+      "pj": 28,
+      "pg": 10,
+      "pe": 8,
+      "pp": 10,
+      "gf": 34,
+      "gc": 43,
+      "dif": -9,
+      "pts": 38
+    },
+    {
+      "pos": 10,
       "team": "Deportes La Serena",
       "pj": 27,
       "pg": 9,
@@ -113,7 +125,7 @@
       "pts": 37
     },
     {
-      "pos": 10,
+      "pos": 11,
       "team": "Huachipato",
       "pj": 27,
       "pg": 10,
@@ -125,27 +137,15 @@
       "pts": 36
     },
     {
-      "pos": 11,
-      "team": "Ñublense",
-      "pj": 27,
-      "pg": 9,
-      "pe": 8,
-      "pp": 10,
-      "gf": 31,
-      "gc": 41,
-      "dif": -10,
-      "pts": 35
-    },
-    {
       "pos": 12,
       "team": "O'Higgins",
-      "pj": 27,
+      "pj": 28,
       "pg": 9,
       "pe": 4,
-      "pp": 14,
+      "pp": 15,
       "gf": 32,
-      "gc": 42,
-      "dif": -10,
+      "gc": 43,
+      "dif": -11,
       "pts": 31
     },
     {
@@ -187,13 +187,13 @@
     {
       "pos": 16,
       "team": "U. de Concepción",
-      "pj": 27,
+      "pj": 28,
       "pg": 7,
       "pe": 5,
-      "pp": 15,
-      "gf": 22,
-      "gc": 49,
-      "dif": -27,
+      "pp": 16,
+      "gf": 24,
+      "gc": 52,
+      "dif": -28,
       "pts": 26
     }
   ],
@@ -244,6 +244,14 @@
     [
       "Cooperativa · Tabla fecha 28",
       "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/estadisticas-la-tabla-de-posiciones-de-la-liga-de-primera-en-la-fecha-28/2026-11-20/122247.html"
+    ],
+    [
+      "RedGol · U. de Concepción 2-3 Ñublense",
+      "https://redgol.cl/campeonato-nacional/universidad-de-concepcion-2-3-nublense-tabla-de-posiciones-liga-de-primera-jornada-28"
+    ],
+    [
+      "Al Aire Libre · Tabla Liga de Primera",
+      "https://www.alairelibre.cl/futbol/tabla/liga-de-primera/"
     ]
   ]
 }
