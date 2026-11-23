@@ -1,20 +1,20 @@
 {
   "title": "Liga de Primera 2026",
-  "round": "Fecha 28 en juego",
-  "updated": "Actualizado el domingo 22 de noviembre de 2026 a las 16:45.",
+  "round": "Tras la fecha 28 de 30",
+  "updated": "Actualizado el domingo 22 de noviembre de 2026 a las 22:43.",
   "champion": "Colo-Colo ya es campeón.",
   "rows": [
     {
       "pos": 1,
       "team": "Colo-Colo",
-      "pj": 27,
-      "pg": 19,
+      "pj": 28,
+      "pg": 20,
       "pe": 4,
       "pp": 4,
-      "gf": 59,
+      "gf": 62,
       "gc": 30,
-      "dif": 29,
-      "pts": 61
+      "dif": 32,
+      "pts": 64
     },
     {
       "pos": 2,
@@ -31,13 +31,13 @@
     {
       "pos": 3,
       "team": "U. Católica",
-      "pj": 27,
+      "pj": 28,
       "pg": 15,
       "pe": 4,
-      "pp": 8,
+      "pp": 9,
       "gf": 56,
-      "gc": 37,
-      "dif": 19,
+      "gc": 40,
+      "dif": 16,
       "pts": 49
     },
     {
@@ -55,13 +55,13 @@
     {
       "pos": 5,
       "team": "Deportes Limache",
-      "pj": 27,
+      "pj": 28,
       "pg": 12,
       "pe": 4,
-      "pp": 11,
-      "gf": 48,
-      "gc": 40,
-      "dif": 8,
+      "pp": 12,
+      "gf": 49,
+      "gc": 42,
+      "dif": 7,
       "pts": 40
     },
     {
@@ -78,6 +78,18 @@
     },
     {
       "pos": 7,
+      "team": "Deportes La Serena",
+      "pj": 28,
+      "pg": 10,
+      "pe": 10,
+      "pp": 8,
+      "gf": 42,
+      "gc": 43,
+      "dif": -1,
+      "pts": 40
+    },
+    {
+      "pos": 8,
       "team": "Deportes Concepción",
       "pj": 28,
       "pg": 11,
@@ -89,7 +101,7 @@
       "pts": 39
     },
     {
-      "pos": 8,
+      "pos": 9,
       "team": "Palestino",
       "pj": 28,
       "pg": 11,
@@ -101,7 +113,7 @@
       "pts": 38
     },
     {
-      "pos": 9,
+      "pos": 10,
       "team": "Ñublense",
       "pj": 28,
       "pg": 10,
@@ -111,18 +123,6 @@
       "gc": 43,
       "dif": -9,
       "pts": 38
-    },
-    {
-      "pos": 10,
-      "team": "Deportes La Serena",
-      "pj": 27,
-      "pg": 9,
-      "pe": 10,
-      "pp": 8,
-      "gf": 40,
-      "gc": 42,
-      "dif": -2,
-      "pts": 37
     },
     {
       "pos": 11,
@@ -226,6 +226,14 @@
   "notes": "Los cupos internacionales pueden cambiar según quién gane la Copa Chile.",
   "sources": [
     [
+      "En Cancha: Limache 1-2 La Serena",
+      "https://www.encancha.cl/futbol-chileno/primera/2026/11/22/en-vivo-deportes-limache-vs-d-la-serena-por-liga-de-primera-minuto-a-minuto-326025.html"
+    ],
+    [
+      "Cooperativa: tabla fecha 28",
+      "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/estadisticas-la-tabla-de-posiciones-de-la-liga-de-primera-en-la-fecha-28/2026-11-20/122247.html"
+    ],
+    [
       "Cooperativa · Resultados fecha 28",
       "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/los-resultados-de-la-fecha-28-de-la-liga-de-primera-2026/2026-11-20/121911.html"
     ],
@@ -240,10 +248,6 @@
     [
       "Emol · Tabla de posiciones",
       "https://www.emol.com/especiales/2026/deportes/liga-de-primera/tabla-posiciones.asp"
-    ],
-    [
-      "Cooperativa · Tabla fecha 28",
-      "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/estadisticas-la-tabla-de-posiciones-de-la-liga-de-primera-en-la-fecha-28/2026-11-20/122247.html"
     ],
     [
       "RedGol · U. de Concepción 2-3 Ñublense",
