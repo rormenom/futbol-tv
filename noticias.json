@@ -1,6 +1,14 @@
 {
-  "updated": "Semana 48 · 23 nov – 29 nov · Actualizado el martes 24 de noviembre a las 16:42.",
+  "updated": "Semana 48 · 23 nov – 29 nov · Actualizado el miércoles 25 de noviembre a las 07:42.",
   "items": [
+    {
+      "date": "2026-11-24",
+      "time": "18:30",
+      "source": "Sabes Deportes",
+      "title": "Se aleja: figura de Deportes Concepción podría dejar el club a final de temporada",
+      "url": "https://sabesdeportes.com/2026/11/24/se-aleja-figura-de-deportes-concepcion-podria-dejar-el-club-a-final-de-temporada/",
+      "summary": "Uno de los jugadores destacados del Conce tendría opciones de partir cuando termine la temporada 2026."
+    },
     {
       "date": "2026-11-24",
       "time": "09:00",
@@ -11,11 +19,27 @@
     },
     {
       "date": "2026-11-23",
+      "time": "18:33",
+      "source": "Sabes Deportes",
+      "title": "“Me imagino que nadie me tendrá que evaluar por dos partidos que quedan”",
+      "url": "https://sabesdeportes.com/2026/11/23/me-imagino-que-nadie-me-tendra-que-evaluar-por-dos-partidos-que-quedan/",
+      "summary": "El DT Fernando Díaz dice que no ha conversado su renovación, mientras la dirigencia asegura que sí hubo una reunión."
+    },
+    {
+      "date": "2026-11-23",
       "time": "12:05",
       "source": "ESPN Chile",
       "title": "La programación de la 29° fecha del Campeonato Nacional 2026",
       "url": "https://www.espn.cl/futbol/chile/nota/_/id/17552588/la-programacion-de-la-29%C2%B0-fecha-del-campeonato-nacional-2026",
       "summary": "Días y horarios de la penúltima fecha, con Deportes Concepción recibiendo a la U el domingo 29 a las 18:00 en el Ester Roa."
+    },
+    {
+      "date": "2026-11-23",
+      "time": "10:57",
+      "source": "La Tercera",
+      "title": "Siete equipos y tres cupos: la intensa lucha por entrar a la Copa Sudamericana en la Liga de Primera",
+      "url": "https://www.latercera.com/el-deportivo/noticia/siete-equipos-y-tres-cupos-la-intensa-lucha-por-entrar-a-la-copa-sudamericana-en-la-liga-de-primera/",
+      "summary": "Análisis de la pelea por la Sudamericana a dos fechas del final, con Deportes Concepción en carrera con 39 puntos."
     },
     {
       "date": "2026-11-23",
